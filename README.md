@@ -20,11 +20,8 @@ This Jupyter Notebook app fetches a random joke and transforms it into various s
 3. **API Key Setup**:
 
    - This project uses OpenAI API for generating responses.
-   - **For secure access**, store your API key in a `.env` file on Google Drive and mount Google Drive in Colab as described in the notebook.
-   - The `.env` file should contain:
-     ```plaintext
-     OPENAI_API_KEY=your_openai_api_key
-     ```
+   - **For secure access**, input your API Key once prompted.
 
 4. **Run the Notebook**:
    - After mounting Google Drive, execute all cells in order.
+   - The UI should be displayed at the final cell.
