@@ -11,7 +11,7 @@ This Jupyter Notebook app fetches a random joke and transforms it into various s
      pip install -r requirements.txt
      ```
 
-2. **Using Google Colab**:
+2. **Launching Project in Google Colab**:
 
    - To open this notebook in Google Colab, click the badge below:
 
