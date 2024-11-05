@@ -15,7 +15,7 @@ This Jupyter Notebook app fetches a random joke and transforms it into various s
 
    - To open this notebook in Google Colab, click the badge below:
 
-     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/my-project/blob/main/notebook.ipynb)
+     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VincentLeVo/LoDJobApplication/blob/main/GenLaughs.ipynb)
 
 3. **API Key Setup**:
 
